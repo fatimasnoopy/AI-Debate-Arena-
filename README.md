@@ -1,10 +1,10 @@
-# AI-Debate-Arena-
+# AI Debate Arena 🎤
 
 A sophisticated Streamlit application where three LLM-based agents engage in structured debate with transparent reasoning and balanced moderation.
 
 ## Features
 
-###  Core Functionality
+### 🎯 Core Functionality
 
 - **User-Defined Topics**: Debate any topic of your choice
 - **Three Specialized Agents**:
@@ -249,4 +249,4 @@ This project is provided as-is for educational and research purposes.
 
 ---
 
-## Happy Debating! 
+**Happy Debating! 🎤**
